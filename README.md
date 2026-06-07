@@ -1,6 +1,6 @@
 # Case Studies Portfolio
 
-A curated collection of 8 case studies spanning AI/ML systems, mechanical engineering, startup business design, and sustainability strategy. Each document demonstrates structured problem-solving — from market sizing and technical architecture to financial modelling and competitive positioning.
+A curated collection of 7 case studies spanning AI/ML systems, mechanical engineering, startup business design, and sustainability strategy. Each document demonstrates structured problem-solving — from market sizing and technical architecture to financial modelling and competitive positioning.
 
 ---
 
