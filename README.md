@@ -10,9 +10,9 @@ A curated collection of 8 case studies spanning AI/ML systems, mechanical engine
 |---|-----------|--------|------|
 | 1 | [AI Food Recommendation Chatbot](#1-ai-food-recommendation-chatbot) | AI / ML Systems | Technical + Business |
 | 2 | [Meesho Growth Strategy](#2-meesho-growth-strategy) | E-Commerce Analytics | Data-Driven Case Study |
-| 3 | [CropChain — Agricultural Supply Chain](#3-cropchain--agricultural-supply-chain) | AgriTech / Startup | Pitch + Detailed Report |
-| 4 | [ParkSe — Smart Parking App](#4-parkse--smart-parking-app) | Product / Mobility | Business Model |
-| 5 | [TechnoX — Solar Energy Optimiser](#5-technox--solar-energy-optimiser) | CleanTech / AI Platform | Strategy + Market Analysis |
+| 3 | [CropChain - Agricultural Supply Chain](#3-cropchain--agricultural-supply-chain) | AgriTech / Startup | Pitch + Detailed Report |
+| 4 | [ParkSe - Smart Parking App](#4-parkse--smart-parking-app) | Product / Mobility | Business Model |
+| 5 | [TechnoX - Solar Energy Optimiser](#5-technox--solar-energy-optimiser) | CleanTech / AI Platform | Strategy + Market Analysis |
 | 6 | [6 DOF Camera Robot](#6-6-dof-camera-robot) | Mechanical Engineering | Design + Simulation |
 | 7 | [Revamp Moto Pop-Up Bakery](#7-revamp-moto-pop-up-bakery) | Entrepreneurship | Business Plan |
 
@@ -221,8 +221,8 @@ Demonstrates that Revamp Moto vehicles are viable platforms for micro-business d
 ## About
 
 **Aguru Venkata Saisantosh Patnaik**  
-B.Tech — [Institution] | AI/ML & Data Science | Product & Strategy
+B.Tech & M.Tech, IIT Bhubaneswar | AI/ML & Data Science | Product & Strategy
 
 These case studies were produced independently and as part of academic coursework, hackathons, and internship projects. They reflect applied problem-solving across engineering, business, and technology domains.
 
-> For project code, notebooks, and live demos — see the pinned repositories on my [GitHub profile](https://github.com/aguru-venkata-saisantosh-patnaik).
+> For project code, notebooks, and live demos - see the pinned repositories on my [GitHub profile](https://github.com/aguru-venkata-saisantosh-patnaik).
